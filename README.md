@@ -1,6 +1,6 @@
 # 🐾 Amor em Patas — Sistema de adoção de animais
 
-Aplicação web responsiva para divulgar animais disponíveis para adoção e organizar o fluxo de adoção responsável. O projeto usa **Node.js**, **Express**, **SQLite** e uma interface em HTML, CSS e JavaScript.
+Aplicação web responsiva para divulgar animais disponíveis para adoção e organizar o fluxo de adoção responsável. O projeto usa **Python**, **Node.js**, **Express**, **SQLite** e uma interface em HTML, CSS e JavaScript.
 
 ## Visão geral do processo
 
@@ -76,8 +76,8 @@ amor-em-patas/
 1. Clone o repositório e entre na pasta do projeto:
 
    ```bash
-   git clone https://github.com/Hideaki91/amor-em-patas.git
-   cd amor-em-patas
+   git clone https://github.com/Hideaki91/Projeto-integrador-amor-em-patas
+   cd Projeto-integrador-amor-em-patas
    ```
 
 2. Instale as dependências:
